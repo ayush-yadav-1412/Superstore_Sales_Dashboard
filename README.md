@@ -57,13 +57,13 @@ Regions: Geographic data on sales performance by region and city.
 The dataset is designed to provide a comprehensive view of the store's operations and performance.
 
 ## Report Structure
-The Power BI report is structured into several key pages, each focusing on different aspects of the data:
+The Power BI report is structured into several sub-parts, each focusing on different aspects of the data:
 
-## Overview: High-level summary of key metrics and performance indicators.
+## High-level summary of key metrics and performance indicators.
 Sales Performance: Detailed analysis of sales trends and top-selling products.
 Profitability: Insights into profit margins and high/low-performing products.
 Customer Analysis: Demographic breakdown and customer segmentation.
 Regional Performance: Geographic analysis of sales and profit by region.
 Product Analysis: Detailed analysis of product performance and profitability.
 Trends and Forecasts: Analysis of sales trends over time and future projections.
-Each page includes interactive elements to facilitate data exploration and discovery.
+Each subpart includes interactive elements to facilitate data exploration and discovery.
