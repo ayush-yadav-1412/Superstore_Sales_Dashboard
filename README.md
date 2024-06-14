@@ -2,7 +2,8 @@
 This repository contains a Power BI report for analyzing Superstore sales data. The report provides in-depth insights into various aspects of the store's performance, including sales trends, profitability, customer demographics, and more.
 
 ### Dashboard Link : https://app.powerbi.com/links/0rxiyLr4i6?ctid=bf44ae84-3a8c-4346-8a73-99095e2eda6c&pbi_source=linkShare
-Table of Contents
+
+## Table of Contents
 Overview
 Features
 Usage
