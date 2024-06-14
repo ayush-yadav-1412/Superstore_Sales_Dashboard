@@ -40,6 +40,13 @@ Dive deeper into specific data points for detailed analysis.
 Explore relationships between different metrics and dimensions.
 Gain insights into underlying factors driving performance.
 
+# Snapshots of Dashboards 
+
+![Superstore - light](https://github.com/ayush-yadav-1412/superstore_sales-pbix/assets/170625779/d42f5b84-c3b6-4a3c-b2f5-77137fb027c1)
+
+ 
+![Superstore-dark](https://github.com/ayush-yadav-1412/superstore_sales-pbix/assets/170625779/701fc348-69fc-414f-a734-949e2ea52c08)
+
 ## Usage
 Once the report is opened in Power BI Desktop, you can navigate through different pages to explore various aspects of the Superstore's performance. Use the interactive features to filter data, drill down into specific details, and uncover insights. Key functionalities include:
 
